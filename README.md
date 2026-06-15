@@ -15,9 +15,9 @@ As a Computer Science graduate with a strong foundation in systems, networking, 
 ---
 ## Case Studies Index
 
-### Case Study 1: Operation Frankenstein (Phishing Infrastructure Takedown)
-* **Objective:** Dissect an active corporate impersonation campaign targeting job seekers.
-* **Outcome:** Successfully isolated a multi-state composite identity, mapped the underlying malicious infrastructure, and submitted a threat brief to CISA for global blocklisting.
+### Case Study 1: Infrastructure Profiling & Mitigating Deceptive Domains (Operation Frankenstein)
+* **Objective:** Dissect a sophisticated corporate impersonation and active phishing campaign weaponizing lookalike infrastructure against vulnerable job seekers.
+* **Outcome:** Mapped the underlying malicious hosting environment, isolated a multi-state composite identity, and compiled a comprehensive threat brief for targeted hosting provider abuse requests and a formal infrastructure report to CISA.
 * [Link to folder/file]
 
 ### Case Study 2: Privilege Abuse & Remote Entity Attribution (Minecraft Server Incident)

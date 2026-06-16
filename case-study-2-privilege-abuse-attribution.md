@@ -1,4 +1,4 @@
-# Case Study 2: Privilege Abuse & Remote Entity Attribution (Minec# Case Study 2: Privilege Abuse & Remote Entity Attribution (Minecraft Server Incident)
+# Case Study 2: Privilege Abuse & Remote Entity Attribution (Minecraft Server Incident)
 
 **Author:** Kathy Lam  
 **Focus Area:** Insider Threat Analysis, Operational Security (OpSec), Out-of-Band OSINT, Identity Attribution  

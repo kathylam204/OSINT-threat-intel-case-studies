@@ -67,4 +67,4 @@ Once definitive attribution and geographic markers were established, a protectiv
 3. **Zero-Exposure Closure:** The entire investigative lifecycle achieved positive attribution without executing any direct interactions or active infrastructure queries against the subject, guaranteeing zero operational exposure and preventing defensive counter-actions.
 
 ---
-*Note: In compliance with technical data privacy ethics and strict protective intelligence protocols, all specific legal names, business titles, unique gaming handles, and localized regional coordinates have been systematically sanitized or completely generalized ([REDACTED]) to ensure the privacy and safety of all innocent parties involved.*
+*Note: In accordance with professional data privacy standards and operational security protocols, all specific handles, real-world names, exact IP spaces, and server domains have been strictly redacted or defanged ([REDACTED]) to protect the security boundaries of the surviving user base.*

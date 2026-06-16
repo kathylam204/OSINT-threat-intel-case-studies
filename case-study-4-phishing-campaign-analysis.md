@@ -66,10 +66,10 @@ The sender profile was marked as a malicious entity. Communications were severed
 Impersonated Sender Identity: Collin H / Talent Acquisition Team
 Impersonated Corporate Branding: Triumph Group, Inc.
 Primary Attack Vector: Social Engineering / Phishing via Recruitment Pretext
-```
----
-*Note: In accordance with professional data privacy standards and operational security protocols, all specific handles, real-world names, exact IP spaces, and server domains have been strictly redacted or defanged ([REDACTED]) to protect the security boundaries of the surviving user base.*
 Payload Delivery Method: Weaponized Document Attachment (Disguised Technical Assessment)
 Enforced Urgency Metric: <24-48 Hour Artificial Processing Deadline (June 17, 2026)
 Classification: Cyber-Enabled Employment Fraud / Malicious Delivery Campaign
 Target Action Completed: Incident Isolated, Defensive Timeline Mapped, Endpoint Secured
+```
+---
+*Note: In accordance with professional data privacy standards and operational security protocols, all specific handles, real-world names, exact IP spaces, and server domains have been strictly redacted or defanged ([REDACTED]) to protect the security boundaries of the surviving user base.*

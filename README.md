@@ -28,7 +28,7 @@ As a Computer Science graduate with a strong foundation in systems, networking, 
 ### Case Study 3: Open-Source Footprinting & Anonymity De-cloaking (Operation Ghost Blind)
 * **Objective:** Investigate an evasive individual employing operational security tactics to maintain digital anonymity while exhibiting predatory behavior and social engineering patterns within an insular community.
 * **Outcome:** Systematically mapped the subject's historically controlled commercial footprints, associated entities, and esports infrastructures to achieve definitive attribution and establish structural links to verified regional markers.
-* [Case 3 Link](./case-study-3-anonymity-decloak.md)
+* [Case 3 Link](https://github.com/kathylam204/OSINT-threat-intel-case-studies/blob/main/case-study-3-anonymity-decloak.md)
 
 ### Case Study 4: Social Engineering Tactics & Analyzing Malicious Interview Pivots
 * **Objective:** Analyze a highly targeted corporate identity theft and phishing campaign that manipulated interview scheduling protocols to deploy malicious PDF attachments against entry-level job seekers.

@@ -71,3 +71,6 @@ Registrant Phone Asset: +1-808-xxx-xxxx
 Impersonated Legal Corporate Entity: Triumph Group, Inc.
 Classification: Active Phishing / Cyber-Enabled Employment Fraud Campaign
 Target Action Requested: Global DNS Ingestion Filter Updates / Blacklist Integration
+```
+---
+*Note: In accordance with professional data privacy standards and operational security protocols, all specific handles, real-world names, exact IP spaces, and server domains have been strictly redacted or defanged ([REDACTED]) to protect the security boundaries of the surviving user base.*

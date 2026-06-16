@@ -30,5 +30,10 @@ As a Computer Science graduate with a strong foundation in systems, networking, 
 * **Outcome:** Systematically mapped the subject's historically controlled commercial footprints, associated entities, and esports infrastructures to achieve definitive attribution and establish structural links to verified regional markers.
 * [Case 3 Link](./case-study-3-anonymity-decloak.md)
 
+### Case Study 4: Social Engineering Tactics & Analyzing Malicious Interview Pivots
+* **Objective:** Analyze a highly targeted corporate identity theft and phishing campaign that manipulated interview scheduling protocols to deploy malicious PDF attachments against entry-level job seekers.
+* **Outcome:** Dissected the threat actor's social engineering bait and artificial urgency metrics, mapped the technical pivot from legitimate scheduling pretexts to malware delivery, and compiled actionable indicators of compromise (IoCs) to preserve endpoint integrity.
+* [Case 4 Link](https://github.com/kathylam204/OSINT-threat-intel-case-studies/blob/main/case-study-4-phishing-campaign-analysis.md)
+* 
 ---
 *Note: In accordance with strict Operational Security (OpSec) protocols and data privacy standards, all Personally Identifiable Information (PII), specific IP addresses, and sensitive indicators have been redacted or defanged ([REDACTED] / `[.]`).*

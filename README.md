@@ -28,7 +28,7 @@ As a Computer Science graduate with a strong foundation in systems, networking, 
 ### Case Study 3: Open-Source Footprinting & Anonymity De-cloaking (Operation Ghost Blind)
 * **Objective:** Investigate an evasive individual employing operational security tactics to maintain digital anonymity while exhibiting predatory behavior and social engineering patterns within an insular community.
 * **Outcome:** Systematically mapped the subject's historically controlled commercial footprints, associated entities, and esports infrastructures to achieve definitive attribution and establish structural links to verified regional markers.
-* [Link to Folder/File](./case-study-3-anonymity-decloak.md)
+* [Case 3 Link](./case-study-3-anonymity-decloak.md)
 
 ---
 *Note: In accordance with strict Operational Security (OpSec) protocols and data privacy standards, all Personally Identifiable Information (PII), specific IP addresses, and sensitive indicators have been redacted or defanged ([REDACTED] / `[.]`).*

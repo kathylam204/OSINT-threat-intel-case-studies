@@ -40,5 +40,9 @@ As a Computer Science graduate with a strong foundation in systems, networking, 
 * **Outcome:** Analyzed multi-identity profile mismatches, identified behavioral evasion tactics used to manipulate secure email gateway (SEG) filters, and mapped the threat actor's methodology of scraping public corporate job portals for highly targeted social engineering bait.
 * [Case 5 Link](https://github.com/kathylam204/OSINT-threat-intel-case-studies/blob/main/case-study-5-off-platform-recruitment-fraud.md)
 
+### Case Study 6: Algorithmic Spam & Platform Abuse: Profiling Fake AI Recruiters in Professional Communities
+* **Objective:** Detect, isolate, and profile an automated, high-volume platform abuse campaign leveraging AI-generated profiles to target job seekers within specific LinkedIn professional communities and groups[cite: 8].
+* **Outcome:** Analyzed behavioral footprints and templated text layouts across dozens of automated recruiter accounts, exposed the technical pivot mechanics forcing targets into high-risk off-platform communication vectors, and compiled an upstream platform abuse brief to clean up the affected community spaces[cite: 8].
+* [Case 6 Link](https://github.com/kathylam204/OSINT-threat-intel-case-studies/blob/main/case-study-6-algorithmic-spam-platform-abuse.md)
 ---
 *Note: In accordance with strict Operational Security (OpSec) protocols and data privacy standards, all Personally Identifiable Information (PII), specific IP addresses, and sensitive indicators have been redacted or defanged ([REDACTED] / `[.]`).*

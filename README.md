@@ -34,6 +34,11 @@ As a Computer Science graduate with a strong foundation in systems, networking, 
 * **Objective:** Analyze a highly targeted corporate identity theft and phishing campaign that manipulated interview scheduling protocols to deploy malicious PDF attachments against entry-level job seekers.
 * **Outcome:** Dissected the threat actor's social engineering bait and artificial urgency metrics, mapped the technical pivot from legitimate scheduling pretexts to malware delivery, and compiled actionable indicators of compromise (IoCs) to preserve endpoint integrity.
 * [Case 4 Link](https://github.com/kathylam204/OSINT-threat-intel-case-studies/blob/main/case-study-4-phishing-campaign-analysis.md)
-* 
+
+### Case Study 5: Off-Platform Recruitment Fraud & Multi-Identity Brand Impersonation
+* **Objective:** Dissect an off-platform recruiting scam weaponizing high-trust corporate identities (Accenture/Reed) against technical job seekers to bypass platform security triggers.
+* **Outcome:** Analyzed multi-identity profile mismatches, identified behavioral evasion tactics used to manipulate secure email gateway (SEG) filters, and mapped the threat actor's methodology of scraping public corporate job portals for highly targeted social engineering bait.
+* [Case 5 Link](https://github.com/kathylam204/OSINT-threat-intel-case-studies/blob/main/case-study-5-off-platform-recruitment-fraud.md)
+
 ---
 *Note: In accordance with strict Operational Security (OpSec) protocols and data privacy standards, all Personally Identifiable Information (PII), specific IP addresses, and sensitive indicators have been redacted or defanged ([REDACTED] / `[.]`).*
